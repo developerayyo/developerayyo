@@ -14,8 +14,8 @@ I architect and deploy production-grade ERP systems across:
 • Finance & Accounting  
 • Inventory & Operations  
 • HR & Payroll  
-• POS & Multi-branch Retail
-• Healthcare EMR
+• POS & Multi-branch Retail  
+• Healthcare EMR  
 
 Specialized in backend engineering with Frappe Framework, scalable ERPNext customization, and Linux-based production infrastructure.
 
