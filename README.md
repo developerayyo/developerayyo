@@ -1,45 +1,39 @@
-# 👋 Hi, I'm Peter Babalola
+# 👋 Peter Babalola
 
-🚀 ERPNext Backend Engineer | Frappe Developer | ERP Implementation Specialist  
-🌍 Ogun State, Nigeria  
+🚀 ERP Systems Architect | Senior Frappe/ERPNext Backend Engineer  
+🌍 Nigeria | Open to Global Remote Opportunities  
 📧 ayodelebabalola1004@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/developerayo)
 
 ---
 
-## 🧠 About Me
+## 🧠 Engineering Profile
 
-Backend-focused Software Engineer specializing in **Frappe/ERPNext architecture, customization, and enterprise deployment**.
+I architect and deploy **production-grade ERP systems** that power finance, operations, inventory, HR, POS, and e-commerce environments.
 
-I lead full-scale ERP implementations across manufacturing, finance, inventory, HR & payroll — bridging business processes with scalable backend systems.
+My expertise spans:
 
-Currently serving as **Senior IT & ERP Implementation Specialist at Lordsmint Tech Nig Ltd**.
+• Full ERPNext implementation & customization  
+• Backend system architecture (Frappe Framework)  
+• Accounting & financial workflow automation  
+• POS & multi-branch operations systems  
+• HR & Payroll configuration  
+• E-commerce integrations & third-party APIs  
+• Enterprise reporting & data analytics  
+• Linux-based production deployments  
 
----
-
-## ⚙️ Core Expertise
-
-- 🔹 ERPNext Custom Apps & Server Scripts  
-- 🔹 Manufacturing & Accounting Workflow Automation  
-- 🔹 Frappe Framework Backend Development  
-- 🔹 MariaDB Performance Optimization  
-- 🔹 Linux Production Deployment (NGINX, Supervisor, Bench)  
-- 🔹 REST API Integrations (Shopify, POS, External Systems)  
-- 🔹 Infrastructure & Network Engineering (VLAN, Firewall, Routing)  
+I specialize in turning complex business processes into scalable, secure, and maintainable backend systems.
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Core Technical Stack
 
-### Backend & ERP
+### ERP & Backend
 ![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge)
 ![ERPNext](https://img.shields.io/badge/ERPNext-5E64FF?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge)
-
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge)
 
 ### DevOps & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
@@ -49,43 +43,62 @@ Currently serving as **Senior IT & ERP Implementation Specialist at Lordsmint Te
 
 ---
 
-## 🏗 Featured Work
+## 🏗 Enterprise Impact
 
-### 🏭 Enterprise ERP Deployment – Manufacturing Sector
-- Full ERPNext implementation (Manufacturing, Sales, Accounting, HR)
-- High-volume stock entry optimization (5000+ daily transactions)
-- Custom validation & automation scripts
-- Production Linux server management
+### 🔹 End-to-End ERP Deployments
+- Multi-module ERP implementations (Finance, Sales, Inventory, HR, Payroll)
+- Custom DocTypes, workflows, validations & automation logic
+- High-volume transaction handling & system optimization
+- Audit-ready accounting structures & credit control enforcement
 
-### 🏥 EMR + ERP System
-- Patient billing automation
-- Financial compliance integration
-- Reporting dashboards
+### 🔹 POS & Commerce Systems
+- Point-of-Sale architecture & branch synchronization
+- E-commerce integrations with third-party platforms
+- API development for inbound/outbound product validation
+- Real-time stock & financial data synchronization
+
+### 🔹 Backend Engineering
+- Custom server-side business logic
+- REST API integrations
+- Performance tuning (MariaDB, background workers, Redis)
+- Secure multi-site bench deployments
+
+### 🔹 Infrastructure & Reliability
+- Linux production server management
+- NGINX reverse proxy & SSL setup
+- Backup architecture & disaster recovery planning
+- Network architecture (VLANs, firewall rules, routing)
 
 ---
 
-## 🎓 Research Background
+## 🎓 Research Foundation
 
-**M.Sc. Computer Science – University of Lagos**  
-Research: *Feature Selection Optimization using Genetic Algorithms & SVM (Spam Classification)*
+M.Sc. Computer Science  
+Focus: Optimization Algorithms (Genetic Algorithms & SVM)
+
+I apply optimization thinking to:
+- ERP performance tuning  
+- Workflow efficiency  
+- System scalability  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerayyo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerayyo&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerayyo&layout=compact&theme=tokyonight)
 
 ---
 
-## 🤝 Open To
+## 🌍 Open To
 
-- ERPNext / Frappe Backend Roles  
-- ERP Architecture & Consulting  
+- Senior ERPNext / Frappe Backend Roles  
+- ERP Systems Architecture  
+- Backend Engineering (Python)  
 - DevOps & Infrastructure Engineering  
-- International Remote Opportunities  
+- International Remote Positions  
 
 ---
 
-> I build production-grade ERP systems that scale, automate operations, and pass audit scrutiny.
+> I design ERP systems that scale across industries — from finance and retail to manufacturing and e-commerce.
