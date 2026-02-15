@@ -1,32 +1,91 @@
-# Hi 👋, I'm Peter Babalola
+# 👋 Hi, I'm Peter Babalola
 
-### Software Engineer | ERPNext Backend Developer
+🚀 ERPNext Backend Engineer | Frappe Developer | ERP Implementation Specialist  
+🌍 Ogun State, Nigeria  
+📧 ayodelebabalola1004@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/developerayo)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerayyo&label=Profile views&color=0e75b6&style=flat" alt="developerayyo" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerayyo" alt="developerayyo" /></a> </p>
+## 🧠 About Me
 
-<p align="left"> <a href="https://twitter.com/developerayyo" target="blank"><img src="https://img.shields.io/twitter/follow/developerayyo?logo=twitter&style=for-the-badge" alt="developerayyo" /></a> </p>
+Backend-focused Software Engineer specializing in **Frappe/ERPNext architecture, customization, and enterprise deployment**.
 
-- 📫 How to reach me **ayodelebabalola1004@gmail.com**
+I lead full-scale ERP implementations across manufacturing, finance, inventory, HR & payroll — bridging business processes with scalable backend systems.
 
-- 👨‍💻 All of my projects are available at **[https://corevancetech.com/#portfolio](https://corevancetech.com/#portfolio)**
+Currently serving as **Senior IT & ERP Implementation Specialist at Lordsmint Tech Nig Ltd**.
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1YcjhgS_5Sd4qYUMkmzDX0cx_PmoSpfOoy4Y85yEJaUs/edit?usp=sharing](https://docs.google.com/document/d/1YcjhgS_5Sd4qYUMkmzDX0cx_PmoSpfOoy4Y85yEJaUs/edit?usp=sharing)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/developerayyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="developerayyo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/developerayo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/developerayo/" height="30" width="40" /></a>
-<a href="https://twitter.com/developerayyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developerayyo" height="30" width="40" /></a>
-</p>
+## ⚙️ Core Expertise
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+- 🔹 ERPNext Custom Apps & Server Scripts  
+- 🔹 Manufacturing & Accounting Workflow Automation  
+- 🔹 Frappe Framework Backend Development  
+- 🔹 MariaDB Performance Optimization  
+- 🔹 Linux Production Deployment (NGINX, Supervisor, Bench)  
+- 🔹 REST API Integrations (Shopify, POS, External Systems)  
+- 🔹 Infrastructure & Network Engineering (VLAN, Firewall, Routing)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerayyo&show_icons=true&locale=en&layout=compact" alt="developerayyo" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerayyo&show_icons=true&locale=en" alt="developerayyo" /></p>
+## 🛠 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerayyo&" alt="developerayyo" /></p>
+### Backend & ERP
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge)
+![ERPNext](https://img.shields.io/badge/ERPNext-5E64FF?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge)
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
+
+### DevOps & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+
+---
+
+## 🏗 Featured Work
+
+### 🏭 Enterprise ERP Deployment – Manufacturing Sector
+- Full ERPNext implementation (Manufacturing, Sales, Accounting, HR)
+- High-volume stock entry optimization (5000+ daily transactions)
+- Custom validation & automation scripts
+- Production Linux server management
+
+### 🏥 EMR + ERP System
+- Patient billing automation
+- Financial compliance integration
+- Reporting dashboards
+
+---
+
+## 🎓 Research Background
+
+**M.Sc. Computer Science – University of Lagos**  
+Research: *Feature Selection Optimization using Genetic Algorithms & SVM (Spam Classification)*
+
+---
+
+## 📊 GitHub Stats
+
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerayyo&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerayyo&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Open To
+
+- ERPNext / Frappe Backend Roles  
+- ERP Architecture & Consulting  
+- DevOps & Infrastructure Engineering  
+- International Remote Opportunities  
+
+---
+
+> I build production-grade ERP systems that scale, automate operations, and pass audit scrutiny.
