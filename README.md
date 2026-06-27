@@ -14,10 +14,10 @@ I architect and deploy production-grade ERP systems across:
 • Finance & Accounting  
 • Inventory & Operations  
 • HR & Payroll  
-• POS & Multi-branch Retail 
-• Manufacturing
-• Ecommerce
-• Healthcare EMR
+• POS & Multi-branch Retail  
+• Manufacturing  
+• Ecommerce  
+• Healthcare EMR  
 
 Specialized in backend engineering with Python and Frappe Framework, scalable ERPNext customization, and Linux-based production infrastructure.
 
@@ -42,7 +42,7 @@ Specialized in backend engineering with Python and Frappe Framework, scalable ER
 - Third Party Apps/Api Integration  
 - Performance Optimization  
 - Production Deployment & Infrastructure  
-- AI Integration & Automation
+- AI Integration & Automation  
 
 ---
 
