@@ -14,10 +14,12 @@ I architect and deploy production-grade ERP systems across:
 • Finance & Accounting  
 • Inventory & Operations  
 • HR & Payroll  
-• POS & Multi-branch Retail  
-• Healthcare EMR  
+• POS & Multi-branch Retail 
+• Manufacturing
+• Ecommerce
+• Healthcare EMR
 
-Specialized in backend engineering with Frappe Framework, scalable ERPNext customization, and Linux-based production infrastructure.
+Specialized in backend engineering with Python and Frappe Framework, scalable ERPNext customization, and Linux-based production infrastructure.
 
 ---
 
@@ -40,14 +42,7 @@ Specialized in backend engineering with Frappe Framework, scalable ERPNext custo
 - Third Party Apps/Api Integration  
 - Performance Optimization  
 - Production Deployment & Infrastructure  
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerayyo&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerayyo&layout=compact&theme=tokyonight)
+- AI Integration & Automation
 
 ---
 
