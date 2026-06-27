@@ -1,7 +1,7 @@
 # 👋 Peter Babalola
 
-🚀 Software Engineer | ERP Systems Architect | Senior Frappe/ERPNext Backend Engineer  
-🌍 Open to Global Remote Roles  
+🚀 ERP Solutions Architect | Python Backend Engineer | Frappe/ERPNext Engineer  
+🌍 Open to Hybrid & Global Remote Roles  
 📧 ayodelebabalola1004@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/developerayo)
 
